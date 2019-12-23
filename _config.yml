@@ -1,11 +1,11 @@
 # Site settings
 author: Jason Viola
-title: 
+title: My Flatiron Experience
 header-img: img/home-bg.png
 email: jason.viola@mavs.uta.edu
 copyright_name: Jason Viola
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jpv2018
